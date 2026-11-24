@@ -1,5 +1,5 @@
 <?php 
-$token = "7908377811:AAFXbK5jhuxiahecDvGGTrrvBSBxEKDba2c";
+$token = "7950895908:AAH0njpDnSFQ0uOn_DQ26Q0vSKoEGKX5HCk";
 $id = "-5569031468";
 
 // use antibot? yes|no
